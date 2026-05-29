@@ -1,0 +1,21 @@
+body {
+	background-color: #3d424a;
+	color: #d8dee3;
+}
+h1 {
+    color: #e1e8f0;
+    text-align: center;
+}
+p {
+}
+a {
+	color: #658ff0;
+}
+
+.main_padded{
+    padding-top: clamp(8px, 2.5vh, 64px);
+    padding-left: clamp(8px, 8vw, 200px);
+    
+    /* Elements scale dynamically too */
+    width: 80vw; 
+}
