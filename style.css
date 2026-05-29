@@ -11,11 +11,15 @@ p {
 a {
 	color: #658ff0;
 }
+img {
+    max-width: 100%; /* Tells the image to never exceed its container width */
+    height: auto;
+    display: block; /* Removes the default extra spacing underneath images */
+}
 
 .main_padded{
-    padding-top: clamp(8px, 2.5vh, 64px);
+    padding-top: clamp(4px, 2.5vh, 64px);
     padding-left: clamp(8px, 8vw, 200px);
     
-    /* Elements scale dynamically too */
     width: 80vw; 
 }
