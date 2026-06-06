@@ -1,3 +1,3 @@
 https://pixerhp.github.io
 
-A personal website, currently mostly a placeholder.
+Pixer H. P.'s personal multi-purpose website.
