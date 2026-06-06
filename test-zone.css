@@ -1,0 +1,24 @@
+body {
+	background-color: #526160;
+}
+h1 {
+	color: #e1e8f0;
+}
+p {
+	color: #d8dee3;
+}
+a {
+	color: #5eafff;
+}
+
+.padded {
+	padding-left: clamp(16px, 8vw, 200px);
+	padding-right: clamp(16px, 8vw, 200px);
+	padding-top: 40px; 
+	padding-bottom: 20px;
+}
+.vert-flex-container {
+	display: flex;
+	align-items: center;
+	height: 40vh;
+}

@@ -17,7 +17,6 @@ img {
     max-width: 100%; /* Tells the image to never exceed its container width */
     height: auto;
     display: block; /* Removes the default extra spacing underneath images */
-	#3498db
 }
 
 .main_padded {
